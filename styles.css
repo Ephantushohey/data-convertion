@@ -50,4 +50,9 @@ input{
     color:green;
     font-family:'Varela Round';
 }
+p{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
 
