@@ -52,7 +52,8 @@ input{
 }
 p{
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
+    background-color: black;
 }
 
