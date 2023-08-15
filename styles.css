@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    letter-spacing:1.5px;
+}
+
+body {
+    background-color:#9b0707;
+}
+
+.container{
+    width:100vw;
+    height:100vh;
+    background-color:#030000;
+    margin:0 auto;
+    border-radius:5px;
+    text-align:center ;
+    font-family:Bubblegum Sans;
+}
+
+h1{
+    font-size:40px;
+    padding:15px 0;
+    text-align:center;
+    color:#ffff;
+    font-family: poppin;
+}
+
+label{
+    font-size:18px;
+    font-weight:200;
+    color:#d5d5d8;
+    padding:10px 0;
+}
+
+input{
+    font-size:20px;
+    font-weight:800;
+    padding:5px;
+    text-align:center ;
+    width:300px;
+    border: 2px solid #3c4043;
+    outline:none;
+    background-color:#303134;
+    border-radius:5px;
+    color:green;
+    font-family:'Varela Round';
+}
+
